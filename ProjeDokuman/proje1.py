@@ -1,1 +1,1 @@
-print("Merhaba")
+print("Merhass")
